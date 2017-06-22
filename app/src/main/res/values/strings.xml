@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Feeder</string>
+    <string name="shared_preferences_file">test2preferences</string>
+    <string name="action_preferences">Preferences</string>
+    <string name="action_delete_feeds">Delete feeds</string>
+    <string name="title_activity_set_preferences">Settings</string>
+    <string name="title_activity_search">Search</string>
+    <string name="enter_feed_name">Name</string>
+    <string name="enter_feed_url">URL</string>
+    <string name="prompt_ok">Confirm</string>
+    <string name="prompt_cancel">Cancel</string>
+    <string name="title_alert_click_dialog">Manage feed:</string>
+    <string name="title_alert_delete_all_dialog">Delete all</string>
+    <string name="title_alert_delete_one_dialog">Delete feed</string>
+    <string name="message_alert_delete_all">Are you sure you want to delete all your RSS feeds?</string>
+    <string name="message_alert_delete_feed">Are you sure you want to delete this feed?</string>
+    <string name="popup_edit">Edit</string>
+    <string name="popup_delete">Delete</string>
+    <string name="no_results">NO NEWS - CHECK YOUR URL FEEDS !</string>
+    <string name="no_feeds">No feeds yet. Add a new one !</string>
+    <string name="no_search">No feeds checked !</string>
+    <string name="edit_text_search">Keyword to search</string>
+    <string name="action_search">search</string>
+
+
+</resources>
