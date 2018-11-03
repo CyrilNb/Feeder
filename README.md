@@ -18,4 +18,6 @@ Feeds tested:
 
 
 
-## TO DO
+## APK
+
+You can find the APK file in the release section !
