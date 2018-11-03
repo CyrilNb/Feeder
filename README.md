@@ -16,8 +16,3 @@ Feeds tested:
 
 ![MainView](https://github.com/CyrilNb/Feeder/blob/master/screenshots/main.png) ![Search](https://github.com/CyrilNb/Feeder/blob/master/screenshots/search.png) ![Settings](https://github.com/CyrilNb/Feeder/blob/master/screenshots/settings.png)
 
-
-
-## APK
-
-You can find the APK file in the release section !
